@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="RelaxationAntique.PNG" alt="Thierry Mugler virtual exhibition" width="70%">
+</p>
+
 # The antique museum
 ## Realized by: 
 Mina Etesam
