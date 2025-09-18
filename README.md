@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RelaxationAntique.PNG" alt="Thierry Mugler virtual exhibition" width="90%">
+  <img src="RelaxationAntique.PNG" alt="Thierry Mugler virtual exhibition" width="100%">
 </p>
 
 # The antique museum
